@@ -1,0 +1,43 @@
+<script type="text/javascript">
+	
+	var userOtvet = prompt("Висит груша, нельзя скушать. Что это?");
+	var maxOtvet = 5;
+	var score = 0;
+		for (var i =  1; i <= maxOtvet; i++) {
+			if (userOtvet == "лампа") {
+				alert("вы совершенно правы");
+				alert("еще загадка");
+				score = score +1;
+				break;
+			} else {
+				if (i >= maxOtvet) {
+					alert("правильный ответ: лампа");
+					break;
+				}
+				alert("попробуй еще раз");
+
+			}
+			userOtvet = prompt("у вас осталось " + (maxOtvet - i) + " попыток");
+		}
+
+		if (score == 1) {
+			 userOtvet = prompt("весной и летом одним цветом?");
+			for (var i =  1; i <= maxOtvet; i++) {
+			if (userOtvet == "елка") {
+				alert("вы совершенно правы");
+				alert("еще загадка");
+				score = score +1;
+				break;
+			} else {
+				if (i >= maxOtvet) {
+					alert("правильный ответ: елка");
+					break;
+				}
+				alert("попробуй еще раз");
+
+			}
+			userOtvet = prompt("у вас осталось " + (maxOtvet - i) + " попыток");
+		}
+		}
+
+</script>
