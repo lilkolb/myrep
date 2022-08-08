@@ -1,0 +1,54 @@
+body{
+	background-color: cornSilk;
+}
+
+h3{
+	color: grey;
+	font-weight: bold;
+	font-family: cursive;
+	
+}
+a{
+	color: orange;
+	
+}
+.zag{
+	color: black;
+}
+h2{
+		color: grey;
+	font-weight: bold;
+	font-family: cursive;
+}
+details{
+		color: grey;
+	font-weight: bold;
+	font-family: cursive;
+}
+h1{
+	
+	background-color: orange;
+	width: 200px;
+	height: 50px;
+	margin-left:500px;
+	border-radius: 175px;
+	font-family: cursive;
+}
+.textcols {
+	white-space: nowrap;
+}
+.textcols-item {
+	white-space: normal;	
+	display: inline-block;
+	width: 20%;
+	vertical-align: top;
+	
+}
+.textcols .textcols-item:first-child {
+	margin-right: 0.5%;
+}
+button{
+	position: relative;
+	right: 40px;
+	bottom: 10px;
+}

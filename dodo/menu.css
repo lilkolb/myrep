@@ -1,0 +1,122 @@
+body{
+
+	background-color: cornSilk;
+}
+h1{
+	
+	background-color: orange;
+	width: 200px;
+	height: 50px;
+	margin-left:500px;
+	border-radius: 175px;
+	font-family: cursive;
+}
+
+button{
+	position: relative;
+	left: 470px;
+	width: 20%;
+	height: 80px;
+	background-color: cornSilk;
+	color: orange;
+}
+a{
+	color: orange;
+}
+.one{
+	position: relative;
+	bottom: 400px;
+	left: 40px;
+}
+.two{
+	position: relative;
+	bottom: 350px;
+	
+}
+.three{
+	position: relative;
+	bottom: 260px;
+	right: 248px;
+}
+.four{
+	position: relative;
+	bottom: 210px;
+	right: 450px;
+}
+.five{
+	position: relative;
+	bottom: 150px;
+	right: 380px;
+}
+.six{
+	position: relative;
+	top: 10px;
+	right: 530px;
+	
+}
+.seven{
+	position: relative;
+	bottom: 80px;
+	right: 770px;
+	
+}
+.dodster{
+	position: relative;
+	bottom: 330px;
+	right: 110px;
+}
+.dodostr{
+	position: relative;
+	bottom: 200px;
+	left: 945px;
+}
+.starter{
+	position: relative;
+	bottom: 120px;
+	left: 560px;
+}
+.cheesee{
+	position: relative;
+	bottom: 569px;
+	left: 840px;
+}
+.myasnoy{
+	position: relative;
+	bottom: 270px;
+	left: 570px;
+}
+.kart{
+	position: relative;
+	bottom: 330px;
+	left: 620px;
+}
+.vishnya{
+	position: relative;
+	bottom: 390px;
+	left: 430px;
+}
+.chk{
+	position: relative;
+	bottom: 210px;
+	left: 160px;
+}
+.kukis{
+	position: relative;
+	bottom: 130px;
+	left: 120px;
+}
+.mafin{
+	position: relative;
+	bottom: 430px;
+	left: 30px;
+}
+.rulkor{
+	position: relative;
+	bottom: 510px;
+	left: 10px;
+}
+.rulbrus{
+	position: relative;
+	bottom: 320px;
+	right: 280px;
+}
